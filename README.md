@@ -1,0 +1,2 @@
+# To-do--A-virtual-desktop-Assistant
+Our project uses automatic speech recognition (ASR) and voice recognition recognizes the spoken words and phrases and converts them to a machine-readable format by using the pyttsx5 library. • It also has SAPI, an API developed by Microsoft to allow the use of speech recognition and speech synthesis within Windows applications. • Some of the tasks DoTo can perform:- Opening VS Coder, Playing Music, Opening and searching on Youtube, Sending Emails to anyone, and Sending Whatsapp messages.
